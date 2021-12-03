@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
 - 😄 Pronouns: Bearded Chap
 -  📫 How to reach me **sharoofskhan10@gmail.com**
-- ⚡ Know More: <a href="https://pulkit-portfolio.vercel.app/">Sharoof's Portfolio</a> 
+- ⚡ Know More: <a href="https://sharoof-khan-portfolio-coolstuff400031-gmailcom.vercel.app/" target = "_blank">Sharoof's Portfolio</a> 
 
 ## 🚀 Languages and Tools:
 
