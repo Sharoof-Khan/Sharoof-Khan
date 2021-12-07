@@ -1,6 +1,6 @@
 
-**Sharoof-Khan/Sharoof-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi! There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- **Sharoof-Khan/Sharoof-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sharoof
 
 <a href="https://www.linkedin.com/in/sharoof-khan-0703/">
   <img align="left" alt="Sharoof Khan LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -14,13 +14,13 @@
 
 
 ## About Me
-<b>Motivated and efficient Full-stack web developer</b>  Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+I am graduated in full-stack web development from Masai School. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done couple of projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS etc. I am passionate about developing complex applications that solve real-world problems impacting millions of users..
 
 
+- 🌱 I'm currently learning Full-Stack Web Development from Masai School Bangaluru.
 - 🔭 Proficient in **MERN Stack**
-- 🌱 Proficient in **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
-- 😄 Pronouns: Bearded Chap
+- 💬 Ask me about Javascript/ReactJs 
 -  📫 How to reach me **sharoofskhan10@gmail.com**
 - ⚡ Know More: <a href="https://sharoof-khan-portfolio-coolstuff400031-gmailcom.vercel.app/" target = "_blank">Sharoof's Portfolio</a> 
 
