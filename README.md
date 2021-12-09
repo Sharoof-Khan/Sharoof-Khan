@@ -22,7 +22,7 @@ I am graduated in full-stack web development from Masai School. I like problem-s
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
 - 💬 Ask me about Javascript/ReactJs 
 -  📫 How to reach me **sharoofskhan10@gmail.com**
-- ⚡ Know More: <a href="https://sharoof-khan-portfolio-coolstuff400031-gmailcom.vercel.app/" target = "_blank">Sharoof's Portfolio</a> 
+- ⚡ Know More: <a href="https://portfolio-sharoof-khan.vercel.app//" target = "_blank">Sharoof's Portfolio</a> 
 
 ## 🚀 Languages and Tools:
 
