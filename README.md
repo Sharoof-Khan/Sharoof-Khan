@@ -1,6 +1,6 @@
 
 <!-- **Sharoof-Khan/Sharoof-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sharoof
+## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sharoof Khan
 
 <a href="https://www.linkedin.com/in/sharoof-khan-0703/">
   <img align="left" alt="Sharoof Khan LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
