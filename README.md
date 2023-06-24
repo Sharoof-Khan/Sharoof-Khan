@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/sharoof-khan-0703/">
   <img align="left" alt="Sharoof Khan LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Sharoof_Khan73">
+<!-- <a href="https://twitter.com/Sharoof_Khan73">
   <img align="left" alt="Sharoof Khan | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 
 <br/>
 <br/>
