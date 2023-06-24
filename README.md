@@ -14,13 +14,13 @@
 
 
 ## About Me
-I am graduated in full-stack web development from Masai School. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done couple of projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS etc. I am passionate about developing complex applications that solve real-world problems impacting millions of users..
+I graduated in full-stack web development from Masai School. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done a couple of projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS, etc. I am passionate about developing complex applications that solve real-world problems impacting millions of users.
 
 
-- 🌱 I'm currently learning Full-Stack Web Development from Masai School Bangaluru.
-- 🔭 Proficient in **MERN Stack**
+- 🌱 Thrilled to be actively contributing as a React & React-Native Developer! 🖥️💼 Embracing new challenges, honing my skills, and creating impactful solutions in the tech industry. #React #React-Native #ProfessionalJourney #TechEnthusias.
+- 🔭 Proficient in **React React-Native**
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
-- 💬 Ask me about Javascript/ReactJs 
+- 💬 Ask me about Javascript/ReactJs/React-Native
 -  📫 How to reach me **sharoofskhan10@gmail.com**
 - ⚡ Know More: <a href="https://portfolio-sharoof-khan.vercel.app//" target = "_blank">Sharoof's Portfolio</a> 
 
