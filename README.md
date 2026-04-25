@@ -1,59 +1,81 @@
+# Sharoof Khan
 
-<!-- **Sharoof-Khan/Sharoof-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sharoof Khan
+Frontend Engineer | React | Next.js | Performance-Focused UI Systems
 
-<a href="https://www.linkedin.com/in/sharoof-khan-0703/" target="_blank">
-  <img align="left" alt="Sharoof Khan LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png" />
-</a>
-<!-- <a href="https://twitter.com/Sharoof_Khan73">
-  <img align="left" alt="Sharoof Khan | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+---
 
-<br/>
-<br/>
+## 🚀 About
 
+Frontend Engineer with 3.5+ years of experience building **high-performance, data-intensive web applications**.
 
-## About Me
-I graduated in full-stack web development from Masai School. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done a couple of projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS, etc. I am passionate about developing complex applications that solve real-world problems impacting millions of users.
+I specialize in:
+- Optimizing large-scale UI rendering (10k+ datasets)
+- Designing scalable component architectures
+- Building production-grade dashboards using React & Next.js
 
+Focused on performance, maintainability, and real-world impact—not just UI.
 
-- 🌱 Thrilled to be actively contributing as a React & React-Native Developer! 🖥️💼 Embracing new challenges, honing my skills, and creating impactful solutions in the tech industry. #React #React-Native #ProfessionalJourney #TechEnthusias.
-- 🔭 Proficient in **React React-Native**
-- 👯 I’m looking to collaborate on some cool and awesome ideas.
-- 💬 Ask me about Javascript/ReactJs/React-Native
--  📫 How to reach me **sharoofskhan10@gmail.com**
-- ⚡ Know More: <a href="https://sharoofkhan-portfolio.vercel.app//" target = "_blank">Sharoof's Portfolio</a> 
+---
 
-## 🚀 Languages and Tools:
+## 🧠 Tech Stack
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
-    <img src="https://img.icons8.com/officel/80/000000/react.png" alt="react js"  width="48" height="48"/>
-    <img src="https://i.ibb.co/sHcDbzn/next-Js.png" alt="Next Js"  width="48" height="48"/>
-    <img src="https://i.ibb.co/R0r5xhQ/tailwind-Logo.png" alt="Tailwind"  width="100" height="48" />
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-    
+**Frontend**
+- React.js, Next.js, React Native
+- TypeScript, JavaScript
+- Tailwind CSS
+
+**State Management**
+- Redux Toolkit, RTK Query
+
+**Backend & Data**
+- Node.js, Express.js
+- MongoDB, REST APIs
+
+**Tools**
+- Git, Postman, Vite
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 One Nation One Product (Dashboard System)
+- Data-heavy dashboard with filtering, charts, and export features
+- Handles large datasets efficiently with optimized rendering
+- Built with React, RTK Query, Tailwind
+
+👉 Add repo link here
+
+---
+
+### 🔹 BollywoodMDB (Mobile App)
+- React Native app for movies, trailers, and analytics
+- Optimized data fetching and navigation architecture
+- Includes offline export functionality
+
+👉 Add repo link here
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharoof-khan&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharoof-khan&layout=compact&theme=react&hide_border=true" />
 </p>
 
-<br/>
+---
 
-## 📊 My Github Stats
+## 🧩 What I Focus On
 
-  <br/>
-    <a href="https://github.com/sharoof-khan/"><img alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharoof-khan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sharoof-khan/"><img alt="Sharoof's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharoof-khan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharoof-khan)](https://github.com/sharoof-khan/github-readme-stats) -->
-  <!-- <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=sharoof-khan"(https://github.com/sharoof-khan/github-readme-stats) -->
+- Performance optimization in React applications
+- Handling large datasets efficiently in UI
+- Clean, scalable component architecture
+- Building production-ready frontend systems
 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+---
 
+## 🤝 Connect
 
+- LinkedIn: https://www.linkedin.com/in/sharoof-khan-0703/
+- Portfolio: https://sharoofkhan-portfolio.vercel.app/
+- Email: sharoofskhan10@gmail.com
