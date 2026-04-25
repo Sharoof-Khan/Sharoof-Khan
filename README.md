@@ -43,16 +43,12 @@ Focused on performance, maintainability, and real-world impact—not just UI.
 - Handles large datasets efficiently with optimized rendering
 - Built with React, RTK Query, Tailwind
 
-👉 Add repo link here
-
 ---
 
 ### 🔹 BollywoodMDB (Mobile App)
 - React Native app for movies, trailers, and analytics
 - Optimized data fetching and navigation architecture
 - Includes offline export functionality
-
-👉 Add repo link here
 
 ---
 
